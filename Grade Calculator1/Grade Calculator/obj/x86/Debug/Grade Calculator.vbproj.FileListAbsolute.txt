@@ -1,0 +1,33 @@
+C:\Users\am484.ACADEMIC\Desktop\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe
+C:\Users\am484.ACADEMIC\Desktop\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.pdb
+C:\Users\am484.ACADEMIC\Desktop\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.xml
+C:\Users\am484.ACADEMIC\Desktop\Grade Calculator\Grade Calculator\obj\x86\Debug\Grade_Calculator.Form1.resources
+C:\Users\am484.ACADEMIC\Desktop\Grade Calculator\Grade Calculator\obj\x86\Debug\Grade_Calculator.Resources.resources
+C:\Users\am484.ACADEMIC\Desktop\Grade Calculator\Grade Calculator\obj\x86\Debug\Grade Calculator.vbproj.GenerateResource.Cache
+C:\Users\am484.ACADEMIC\Desktop\Grade Calculator\Grade Calculator\obj\x86\Debug\Grade Calculator.exe
+C:\Users\am484.ACADEMIC\Desktop\Grade Calculator\Grade Calculator\obj\x86\Debug\Grade Calculator.xml
+C:\Users\am484.ACADEMIC\Desktop\Grade Calculator\Grade Calculator\obj\x86\Debug\Grade Calculator.pdb
+E:\Grade Calculator\Grade Calculator\obj\x86\Debug\Grade Calculator.exe
+E:\Grade Calculator\Grade Calculator\obj\x86\Debug\Grade Calculator.xml
+E:\Grade Calculator\Grade Calculator\obj\x86\Debug\Grade Calculator.pdb
+C:\Users\am484\Desktop\Grade Calculator\Grade Calculator\obj\x86\Debug\Grade Calculator.exe
+C:\Users\am484\Desktop\Grade Calculator\Grade Calculator\obj\x86\Debug\Grade Calculator.xml
+C:\Users\am484\Desktop\Grade Calculator\Grade Calculator\obj\x86\Debug\Grade Calculator.pdb
+C:\Users\am484\Desktop\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe
+C:\Users\am484\Desktop\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.pdb
+C:\Users\am484\Desktop\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.xml
+C:\Users\am484\Desktop\Grade Calculator\Grade Calculator\obj\x86\Debug\Grade_Calculator.Form1.resources
+C:\Users\am484\Desktop\Grade Calculator\Grade Calculator\obj\x86\Debug\Grade_Calculator.Resources.resources
+C:\Users\am484\Desktop\Grade Calculator\Grade Calculator\obj\x86\Debug\Grade Calculator.vbproj.GenerateResource.Cache
+E:\Grade Calculator1\Grade Calculator\obj\x86\Debug\Grade Calculator.exe
+E:\Grade Calculator1\Grade Calculator\obj\x86\Debug\Grade Calculator.xml
+E:\Grade Calculator1\Grade Calculator\obj\x86\Debug\Grade Calculator.pdb
+C:\Users\am484\Desktop\Grade Calculator1\Grade Calculator\obj\x86\Debug\Grade Calculator.exe
+C:\Users\am484\Desktop\Grade Calculator1\Grade Calculator\obj\x86\Debug\Grade Calculator.xml
+C:\Users\am484\Desktop\Grade Calculator1\Grade Calculator\obj\x86\Debug\Grade Calculator.pdb
+C:\Users\am484\Desktop\Grade Calculator1\Grade Calculator\bin\Debug\Grade Calculator.exe
+C:\Users\am484\Desktop\Grade Calculator1\Grade Calculator\bin\Debug\Grade Calculator.pdb
+C:\Users\am484\Desktop\Grade Calculator1\Grade Calculator\bin\Debug\Grade Calculator.xml
+C:\Users\am484\Desktop\Grade Calculator1\Grade Calculator\obj\x86\Debug\Grade_Calculator.Form1.resources
+C:\Users\am484\Desktop\Grade Calculator1\Grade Calculator\obj\x86\Debug\Grade_Calculator.Resources.resources
+C:\Users\am484\Desktop\Grade Calculator1\Grade Calculator\obj\x86\Debug\Grade Calculator.vbproj.GenerateResource.Cache
