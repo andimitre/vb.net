@@ -1,0 +1,3 @@
+C:\Users\am484\Desktop\project2\project2\obj\x86\Debug\project2.exe
+C:\Users\am484\Desktop\project2\project2\obj\x86\Debug\project2.xml
+C:\Users\am484\Desktop\project2\project2\obj\x86\Debug\project2.pdb
